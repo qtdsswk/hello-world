@@ -1,5 +1,5 @@
 # hello-world
-Just anotherrepository
+Just another repository
 
 I want to learn Python with Github.
 But I found that it's more powerful then I thought. 
